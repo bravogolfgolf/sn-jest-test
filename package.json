@@ -25,6 +25,8 @@
 	},
 	"devDependencies": {
 		"@servicenow/cli-archetype-dev": "21.0.7",
-		"@servicenow/cli-component-archetype-dev": "21.0.7"
+		"@servicenow/cli-component-archetype-dev": "21.0.7",
+		"enzyme": "3.8.0",
+		"@servicenow/ui-enzyme-adapter": "quebec"
 	}
 }

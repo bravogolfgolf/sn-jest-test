@@ -14,7 +14,7 @@ npm-debug.log
 *.tgz
 coverage
 .now-cli
-# .babelrc
+.babelrc
 /clover.xml
 /coverage-final.json
 /lcov-report/
